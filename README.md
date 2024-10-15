@@ -23,6 +23,7 @@
   <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/anim/css.svg?raw=true" width="50px">
   <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/anim/html.svg?raw=true" width="50">
   <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/anim/js.svg" width="50px">
+  <img src="https://github.com/VikashPanchal574/VikashPanchal574/blob/main/react.svg"width = "50px">
   <img src="https://raw.githubusercontent.com/shubhDeveloper/Programming_Ic_Code/aba879c03f90b4196b033f7eb3f766c2af1fc306/OracleD.svg">
   
   <img src="https://github.com/shubhDeveloper/Programming_Ic_Code/blob/master/anim/python.svg?raw=true" width="50px">
